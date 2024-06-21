@@ -20,13 +20,13 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/nayan-securityium/securityium
-  workflowSchedule:
-    graphs: "5 * * * *"
-    responseTime: "0 23 * * *"
-    staticSite: "* * * * *"
-    summary: "* * * * *"
-    updateTemplate: "5 * * * *"
-    updates: "5 * * * *"
-    uptime: "5 * * * *"
+workflowSchedule:
+  graphs: "5 * * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "* * * * *"
+  summary: "* * * * *"
+  updateTemplate: "5 * * * *"
+  updates: "5 * * * *"
+  uptime: "5 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
