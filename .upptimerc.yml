@@ -21,6 +21,8 @@ status-website:
     - title: GitHub
       href: https://github.com/nayan-securityium/securityium
 
+  js: "window.onload = function() { alert('Hello!') }"
+  
   theme: dark
 
 workflowSchedule:
