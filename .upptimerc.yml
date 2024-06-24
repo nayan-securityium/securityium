@@ -21,6 +21,8 @@ status-website:
     - title: GitHub
       href: https://github.com/nayan-securityium/securityium
 
+  theme: dark
+
 workflowSchedule:
   graphs: "*/6 * * * *"
   responseTime: "0 23 * * *"
